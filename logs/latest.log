@@ -1,0 +1,17 @@
+[17:52:26] [Server thread/INFO]: Starting minecraft server version 1.9.2
+[17:52:26] [Server thread/INFO]: Loading properties
+[17:52:26] [Server thread/INFO]: Default game type: SURVIVAL
+[17:52:26] [Server thread/INFO]: Generating keypair
+[17:52:26] [Server thread/INFO]: Starting Minecraft server on 10.0.0.199:25565
+[17:52:26] [Server thread/INFO]: Using default channel type
+[17:52:27] [Server thread/INFO]: Preparing level "world"
+[17:52:27] [Server thread/INFO]: Preparing start region for level 0
+[17:52:28] [Server thread/INFO]: Preparing spawn area: 6%
+[17:52:29] [Server thread/INFO]: Preparing spawn area: 44%
+[17:52:30] [Server thread/INFO]: Preparing spawn area: 90%
+[17:52:30] [Server thread/INFO]: Done (3.489s)! For help, type "help" or "?"
+[17:52:39] [User Authenticator #1/INFO]: UUID of player gabed457 is 6f99850e-31f4-4842-ae01-aa70ad322786
+[17:52:39] [Server thread/INFO]: gabed457[/10.0.0.199:51323] logged in with entity id 384 at (-204.51965762648575, 80.0, 132.96046111292355)
+[17:52:39] [Server thread/INFO]: gabed457 joined the game
+[17:53:25] [Server thread/INFO]: gabed457 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:53:25] [Server thread/INFO]: gabed457 left the game
